@@ -1,10 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0177
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-0185
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.142-0184
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0173
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.155-0175
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#AE%F0%9F%87%A6%F0%9F%87%AA%2B%7C%2B151.242.251.144-8080%2B%7C%2B82.19ms
-hysteria2://SNItest@46.243.235.119:443?sni=gazprombank.ru&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%20%5Bblack%20lists%5D%20sni%3Dgazprombank.ru%20cdnvideo
-vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@2.56.176.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5Bblack%20lists%5D
-
+vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536&type=tcp&headerType=none#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
+vless://90dd3391-6963-4fba-a1e1-5acb8a2ff0ba@185.145.245.204:443?encryption=none&security=tls&sni=lva.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=lva.tunnelguard.ru&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5Bblack%20lists%5D
+vless://90dd3391-6963-4fba-a1e1-5acb8a2ff0ba@185.145.245.204:443?encryption=none&security=tls&sni=lva.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5Bblack%20lists%5D
+vless://90dd3391-6963-4fba-a1e1-5acb8a2ff0ba@185.145.245.204:443?encryption=none&security=tls&sni=lva.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5Bblack%20lists%5D
+vless://90dd3391-6963-4fba-a1e1-5acb8a2ff0ba@185.145.245.204:443?encryption=none&security=tls&sni=lva.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5Bblack%20lists%5D
+vless://90dd3391-6963-4fba-a1e1-5acb8a2ff0ba@185.145.245.204:443?encryption=none&security=tls&sni=lva.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5Bblack%20lists%5D
+vless://90dd3391-6963-4fba-a1e1-5acb8a2ff0ba@185.145.245.204:443?encryption=none&security=tls&sni=lva.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5Bblack%20lists%5D
