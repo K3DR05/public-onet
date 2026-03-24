@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443
-vless://cf61e75c-9c20-46bf-a568-5cf63d0fb817@51.250.7.49:443?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=a0vujqwZodF7Hb0gfYoXGsJ4RZYycEJCWfYhYv2AIxs&sid=2db3a3&spx=%2F&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-12188
-vless://464854c0-d879-433b-8ae2-28bfe19ed08e@lv3.fastdbn.com:5001?encryption=none&security=reality&sni=help.3cx.com&fp=qq&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8&type=grpc&authority=&serviceName=downloads.3cx.com&mode=gun#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-443
-vless://464854c0-d879-433b-8ae2-28bfe19ed08e@lv5.fastdbn.com:5001?encryption=none&security=reality&sni=api.3cx.com&fp=qq&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8&type=grpc&authority=&serviceName=downloads.3cx.com&mode=gun#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-442
-vless://79cc33cf-93b4-419b-9e46-33e3edf7057c@gb.nerpvpn.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=qq&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=3decb73e&type=tcp&headerType=none#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%20%5Bvl-re-ra%5D%20%5B260314-084649.156%5D
+
+trojan://BxceQaOe@58.152.25.253:443?security=tls&sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&headerType=none#HK_speednode_0017
+vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.vk.com&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+
