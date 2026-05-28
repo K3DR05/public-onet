@@ -1,7 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443
-
-trojan://BxceQaOe@58.152.25.253:443?security=tls&sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&headerType=none#HK_speednode_0017
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.vk.com&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
-
+vless://ee9d83d7-b8b8-4f57-8b82-f713b6771d57@node-fr-1.axmavpn.xyz:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ajax.aspnetcdn.com&fp=firefox&pbk=IhfJBfeNoDKmS7L8nhncOu-uCn46Tg-vavdC1efkGC0&sid=34ef56ab&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B02%5D%20%20MIFA
+vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@95.140.158.82:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=chrome&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&sid=8ae24275272f&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B01%5D%20%20MIFA
+vless://8cddd533-9611-4fc4-adda-7d629743b4b2@school.vles.space:8443?encryption=none&security=reality&sni=cloud.mail.ru&fp=chrome&pbk=P0fQAbHaRJ6aF8yExwqISCB0ClTrGFhZe7hGDO8YnX4&sid=1413cc6a376b5257&type=grpc&authority=&serviceName=cloud&mode=multi#%F0%9F%87%AC%F0%9F%87%A7%20AetrisVPN
+vless://ee9d83d7-b8b8-4f57-8b82-f713b6771d57@node-de-2.axmavpn.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fonts.gstatic.com&fp=firefox&pbk=gJvkA581Q3hRPNqq0izZbfb4Ix432fx_cL0XjNolJyg&sid=4e3f2d1c&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B01%5D%20%20MIFA
+vless://ee9d83d7-b8b8-4f57-8b82-f713b6771d57@node-de-1.axmavpn.xyz:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ajax.aspnetcdn.com&fp=firefox&pbk=pd0gQgCiUa5qIrnl0zh_hGwpAO91CIIo0IrGRC-oXG0&sid=11223344&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%20USA%20%20%5B01%5D%20%20MIFA
